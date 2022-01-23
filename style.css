@@ -1,0 +1,22 @@
+body {
+    background-color: #d3dedc;
+  }
+  
+  hr {
+    /* background-color:paleturquoise; */
+    border: 5px #7C99AC;
+    border-style: dotted none none;
+    height: 0px;
+    width: 15%;
+  }
+  
+  h1 {
+      color: #96C7C1;
+      font-family: arial;
+      font-style: normal;
+  }
+  
+  h3{
+      color: #7C99AC;
+      font-family: arial;
+  }
